@@ -1,0 +1,35 @@
+Chapter 4: Cache Memory
+- Bộ nhớ nhỏ những tốc độ truy xuất cực kì nhanh
+- Là khu vực trung gian trước khi CPU truy cập vào memory
+*Ổ cứng là direct access
+*Main memory và cache được truy cập ngẫu nhiên
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

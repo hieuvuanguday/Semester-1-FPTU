@@ -1,0 +1,11 @@
+Chapter 3:
+BT1: Tính f'(x) = 0
+     tính f() tại nghiệm và tại đầu mút
+a/ GTNN = -7
+   GTLN = 5
+b/ GTNN = 3
+   GTLN = 23
+c/ 
+BT4:
+inflection point: điểm uốn, chuyển đổi giữa lõm lên và xuống
+tại điểm uốn thì đạo hàm cấp 2 bằng 0 và đổi dấu

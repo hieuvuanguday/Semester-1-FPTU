@@ -1,0 +1,51 @@
+1/ Máy Turing - tạo ra 1937 
+- Loại máy móc tính toán được tất cả những phép tính có công thức
+- Cho vào dữ liệu -> đưa ra kết quả
+- Máy móc để dùng cho nhiều chức năng -> cần có chương trình để nói cho máy tính cách làm
+	+ Dữ liệu nằm trong bộ nhớ, chương trình nằm ngoài
+2/ Von Neumann Model - ra đời 1940's
+- Cải tiến để chương trình nằm trong bộ nhớ
+- Bao gồm: Memory, ALU, Control Unit
+- Chương trình sẽ chạy theo trình tự theo chỉ dẫn CIR
+  nhờ con trỏ PC để nhận diện vị trí đang đứng
+  sau đó xử lý dữ liệu
+=> So sánh:
+- Giống: đều sử dụng ống chân không
+- Khác: 
+	+ Chương trình bên ngoài đối với Turring và bên trong đối với Von Neumann Model
+	+ Không chia rõ ràng với Turing, chia ra rõ ràng các phần riêng biệt với VNM
+	-> VNM là nền tảng cho các máy tính hiện đại
+3/ Các thế hệ máy tính 
+1st-Vaccum Tube: Kích thước lớn, tỏa nhiều nhiệt, tốn nhiên liệu
+2nd-Transitor: Kích thước nhỏ hơn, ít tốn nhiên liệu và tăng tính tự động hóa
+3rd-Integration: Tích hợp các transitor lại thành IC (Integrated Circuits)
+4th-Microprocessor: tích hợp nhiều IC lại thành một vi xử lý (Microprocessor)
+5th-Tích hợp nhiều vi xử lý, tập trung vào phát triển phần mềm như AI
+....
+Có thể 7th-Máy tính lượng tử
+=> Nguyên lý hoạt động đóng mở công tác bằng Transitor
+4/ Các bộ phận cơ bản của một máy tính
+- CPU: ALU, Data registers(bộ nhớ truy xuất nhanh), PC(lưu vị trí), IR(ghi lại chỉ dẫn)
+*nt: Tìm hiểu về Memory Buffer Registers
+	+ Quá trình: Nhận vào lệnh -> Giải mã (ở Control Unit) 
+		     -> Thực thi (Ở ALU) -> Lưu trữ (Ở Main Memory)
+- Main Memory: Lưu trữ dữ liệu và địa chỉ của chúng (là các chuỗi nhị phân)
+	+ RAM(Random access memory):sử dụng để đọc và ghi
+		_Static RAM(SRAM): cần được lặp lại theo chu kỳ
+		_Dynamic RAM(DRAM): không cần
+	+ ROM(Read-only memory):
+		_Programmable ROM(PROM) (có thể đặt và thay đổi trạng thái theo ý muốn của mình)
+		_Erasable Programmable ROM(EPROM): có thể xóa bằng thao tác trên máy
+		_Electically Erasable Programmable ROM(EEPROM): dùng điện để xóa đi được
+	+ Bộ nhớ càng nhanh thì càng đắt, được sử dụng với lượng ít hơn
+	+ Phân cấp theo càng đắt và càng nhanh và càng ít: Main Memory -> Cache memory -> Resigster
+*nt: Cache để lưu những chỉ dẫn có tần suất thực thi thường xuyên để truy cập nhanh hơn nằm trong CPU
+	+ Ngoài ra còn một số thiết bị lưu trữ: CD-ROM, HHD, SSD(dùng NAND-based),...
+- Input/output: 
+-> Liên kết thông qua các dây dẫn
+*nt: học lại đổi MB qua bla bla bla
+**X bits cần để lưu địa chỉ với bộ nhớ là Y(đổi ra byte)(chia cho dung lượng mỗi word nếu có) 
+				X = log2(Y) <bit>
+
+	
+

@@ -1,0 +1,18 @@
+*Cách CPU thực thi:
+- Thực hiện process A -> lưu vào bộ nhớ gốc
+- Thực hiện process B -> lưu vào bộ nhớ gốc
+- Truy xuất ra và tiếp tục thực thi
+*Có cache giúp thông tin nhanh hơn:
+-
+*quản lý thiết bị ngoại vị -> phải gắn địa chỉ để định danh cho từng thiết bị
+*phân biệt memory-mapped I/O 			isolated I/O:
+	lưu trữ chung cả địa chỉ và dữ liệu	lưu trữ tách biệt
+	Dễ quản lý				Dễ truy xuất
+*Kiến trúc tập lệnh: CISC(complex instruction set computer)-chứa các tập lệnh nhiều hơn, phức tạp hơn RISC(reduced instruction set computer)
+-> tìm hiểu thêm CISC & RISC
+*pipelining technique -> trong quá trình thêm lệnh-giải mã-thực thi
+thì chèn thêm những process khác nối đầu
+*parallel: Xử lý song song-chạy đa luồng
+1 hoặc nhiều luồng câu lệnh + 1 hoặc nhiều luồng dữ liệu
+
+ 

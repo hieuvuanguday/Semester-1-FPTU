@@ -1,0 +1,25 @@
+Chapter 2: Computer evolution and performance
+1/ Designing for performance
+- Những hệ điều hành bây giờ yêu cầu một bộ vi xử lý nhỏ, mạnh dựa trên: 
+	+ Xử lý hình ảnh
+	+ Nhận diện giọng nói
+	+ Video đàm thoại
+	+ Đa phương tiện
+	+ Điều khiển giọng nói
+	+ Giả lập
+- Tốc độ bộ xử lý:
+	+ Pipelining: xử lý đồng thời
+	+ Branch prediction: dự đoán bước tiếp theo, sẽ rẽ nhánh theo hướng nào
+	+ Data flow analysis: dựa trên kết quả nhận được để tối ưu hóa chỉ dẫn
+	+ Speculative execution: 
+- Cân bằng hiệu suất: đảm bảo hệ thống hoạt động ổn định
+	+ Tăng RAM cho phù hợp với CPU
+	+ Có 3 cache, tăng quá trình xử lý 
+	+ Thêm cache vào RAM
+	+ Tăng sự giao tiếp bên trong, tăng băng thông giữa bộ nhớ và CPU bằng cách tăng bus
+2/ Phát triển cấu trúc và tổ chức chip:
+- Tăng tốc độ xử lý phần cứng
+- Tăng kích thước và tốc độ của cache
+- Xử lý tác vụ song song
+	
+

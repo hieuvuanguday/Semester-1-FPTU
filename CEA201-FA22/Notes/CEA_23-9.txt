@@ -1,0 +1,31 @@
+ECC RAM: ram tích hợp mã sửa lỗi, khi có lỗi sẽ tự động sửa -> mắc
++ Có thể là lỗi phần cứng, vật lý (lỗi do nhà sản xuất)
++ Có thể là do môi trường ảnh hưởng
++ Sự hao mòn theo thời gian
++ Lỗi phần mềm
++ Lỗi do chập chờn điện
+Kiểm tra dữ liệu đầu vô nhưng khi xuất ra mới kiểm tra
++ Khi mở ra, so sánh các bit, thấy lỗi chỗ nào thì sửa lỗi ở đó
++ Nếu không có lỗi được nhận diện
+XOR: là toán tử trên các bit, khác bit thì bằng 1, giống bit thì bằng 0
+gôm từ 8->3 bit để dễ kiểm tra
+010 101 10 -> 101
+tương tự 8-> 2 8-> 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

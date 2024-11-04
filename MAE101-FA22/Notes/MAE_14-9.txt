@@ -1,0 +1,54 @@
+BT6:
+	(về nhà làm) -> Đạo hàm rồi nhân dx
+BT7:
+a. Hàm số không khả vi tại x = 0 (không liên tục) và tại x = -3 (đổi hướng đột ngột)
+b. Hàm số không liên tục tjai x = 0 và x = 3
+BT8:
+a. h'(1) = 30
+b. h'(1) = 36
+c. f'(2) = 20
+d. g'(3) = 63
+BT9:
+	(về nhà làm)
+BT10:
+a. y = sqrt(25-x^2)
+   y'= dy|dx = 1/2(sqrt(25-x^2))
+   y'= 
+BT15:
+Lấy đạo hàm 2 vế theo biến t
+BT17: mô tả xấp xỉ tuyến tính
+BT18:
+
+BT19
+Chapter 3: Ứng dụng của đạo hàm
+BT2:
+a. f'(x) = 10x + 4 = 0
+	<=>  x = -2/5 là giá trị tới hạn
+b. f'(x) = 
+c. f'(x) = 1 + lnx
+	 = 0
+	<=> lnx = -1
+	<=>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

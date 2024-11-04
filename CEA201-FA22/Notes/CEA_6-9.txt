@@ -1,0 +1,42 @@
+1/ On-going asessment 
+- 4 Exs: 30%
+- 2 Asgs
+- End: 11/11
+2/ Questions:
+- How are computer organize/made/combinational circuits made
+		   /way computer work/run many program?
+*nt: interconnection: kết nối bên trong
+3/ Computer Organization and Architecture
+- Tổ chức: sự sắp đặt, vị trí của các bộ phận
+	+ Người lập tình không quan tâm đến
+	+ Được kết nối với nhau, với các thiết bị ngoại vi và dùng chung bộ nhớ
+- Cấu trúc: những cấu tạo bên trong, kết nối
+	+ Người lập trình có thể tìm thấy
+	+ Ảnh hưởng trực tiếp đến tính logic của chương trình
+	+ Có các instruction set để xử lý
+4/ Structure & Function
+- Hệ thống phân cấp: tập các hệ thống con bên trong liên quan với nhau (modules)
+*nt: hierarchical: phân cấp
+- Cấu trúc: là cách mà các thành phần liên quan với nhau
+- Chức năng: là cách hoạt động của các thành phần
+*nt: modularity: mô-đun hóa (tách biệt quá trình, rồi recombine)
+	+ Có 4: _Xử lý dữ liệu
+		_Lưu trữ dự liệu
+		_Di chuyển dữ liệu
+		_Điều khiển 
+*nt: Điều khiển điều hành các chức năng còn lại
+*nt: register: thanh ghi
+- Có 4 cấu trúc thành phần chính của máy tính:
+	+ CPU - Central Processing Unit: bọ điều khiển và xử lý chính 
+		_Control Unit: đơn vị điều khiển
+		_ALU - Arithmetic and Logic Unit: đơn vị xử lý toán học
+		_Thanh ghi
+		_Kết nối bên trong
+	+ Main Memory: lưu trữ data
+	+ I/O: thiết bị ngoại vi, nhập/xuất dữ liệu
+	+ System Interconnection: Hệ thông kết nối bên trong
+5/ Computer Evolution & Performance
+- Number system: 
+	+ Sử dụng Hệ nhị phân - Binary, thập phân - Decimal, hệ thập lục - Hexadecimal
+*nt: học lại cách chuyển đổi giữa các hệ số
+

@@ -1,0 +1,92 @@
+BT10:
+a/ TÌm giới hạn:
+i. không tồn tại giới hạn
+iii. 	lim(x->1):f(x) = 1
+	lim(x->4):f(x) = 4
+b/ Nơi nào hàm số không liên tục:
+	=> tại 0, 2, 4 thì hàm số không liên tục
+BT12: Tìm miền xác định
+a/D = R\{2}
+b/D = R\{-1/2}
+c/D = (-5/2; +vô cực)
+*Hàm số liên tục tại một điểm nếu: 	lim(x->a):f(x) = f(a)
+BT13: tìm M sao cho f(x) liên tục trên R
+a/ 16-m^2 = 4m + 20
+<=>m^2 +4m + 4 = 0
+<=>m = -2
+
+b/ 4m + 4 = 8 - 2m
+<=>6m = 4
+<=>m = 2/3
+
+c/
+f'(x) = 2e^2x = m
+<=> m = 2
+
+d/
+f'(x) = 4 = m + 1
+<=> m = 3 
+BT14: tìm điểm hàm số không liên tục
+=> Hàm số không liên tục tại x = 0 và  x = 1
+BT15: tìm tiệm cận của các hàm số
+*khi x dần về vô cực mà giá trị bằng L thì L là đường tiệm cận ngang
+*khi x dần về a mà giá trị bằng vô cực thì a là đường tiệm cận đứng
+c/ (về nhà làm)
+
+Chapter 2: Derivatives
+*một hàm số gọi là khả vi khi hàm số đó có đạo hàm
+BT3:
+a/ y' = 2x - (sqrt(x) + x/(2*sqrt(x))) - 1/x^2 
+      = 2x - 3*sqrt(x)/2 - 1/(x^2)
+(về nhà làm tiếp b, c, d, e, f)
+BT4:
+(về nhà làm a, b, c)
+BT5:
+a/ y = x^3 + x + 2
+=> y'= dy|dx = 3*x^2 + 1
+=> dy|dt = 6*x^2 + 2 = 8  
+*Cách truy vấn hàm số:
+		y = f'(x0).(x-x0)+y(x0)
+BT2: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

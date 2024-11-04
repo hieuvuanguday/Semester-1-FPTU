@@ -1,0 +1,5 @@
+1/ Gòm 5 loại dữ liệu: số, văn bản, audio, images. video
+=> sử dụng đồng thời 2 hay nhiều thì gọi là multimedia
+2/ Chia dữ liệu số thành 2 loại:
++ dấu chấm tĩnh (hay số nguyên)
++ dấu chấm động (hay số thực)

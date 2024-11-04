@@ -1,0 +1,34 @@
+Chapter 3: Cái nhìn trên cùng và giao tiếp bên trong của máy tính
+1/ Máy tính ngày nay được hình thành từ cấu trúc của John Von Neumann
+-> Một chương trình được nạp vào bao gồm chỉ thị và dữ liệu
+2/ Ở phần cứng, bộ máy xử lý nhận vào data và trả ra kết quả
+   Ở phần mềm, tương tự như trên nhưng được có các lệnh chỉ thị
+-> là chương trình tuần tự, hay theo chỉ thị
+- Phần mềm là tập hợp các code và chỉ thị, có thể là nhận chỉ thị từ phần cứng
+- Cung cấp tuần tự mới cho chương trình mới mà không cần phải kết nối lại với phần cứng
+3/ Thành phần chính
+- CPU
+- I/O components
+4/ Các loại thanh ghi
+- Memory addres resigter(MAR): thanh ghi bộ nhớ địa chỉ -> lưu địa chỉ
+- Memory buffer resigter(MBR): thanh ghi đệm -> vùng chuyển giao giữa các phần
+Tương tự với I/OAR và I/OBR
+5/ Bus là tín hiệu truyền dẫn bên trong
+- System bus
+- Data bus
+- Control bus
+6/ Computer function
+a) Chu kì chỉ thị cơ bản: liên tục xảy ra và lặp lại
+- Chu kì nạp: đầu mỗi quá trình, vi xử lý nạp chỉ thị từ bộ nhớ vào CPU để xử lý
+- The program counter(PC) là thanh ghi đếm số lần lặp lại, chứa địa chỉ của những chỉ thị tiếp theo
+b) Cấu trúc của một chỉ thị: gồm 16 bit
+- Bao gồm:
+	+ 4 bit đầu lưu Opcode(code mở đầu) -> 16 hoạt động
+	+ Còn lại lưu địa chỉ và chỉ thị
+b1/ PC sẽ lấy địa chỉ của chỉ thị
+b2/ 4 bit đầu của chỉ thị là lệnh à 12 bit sau là địa chỉ data cần xử lý
+b3/ xử lý data tương ứng
+b4/ PC tăng biến đếm và tiếp tục
+
+
+	

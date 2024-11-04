@@ -1,0 +1,103 @@
+1/ Cũ - tự ôn
+- Giới hạn, đạo hàm, tích phân
+2/ Mới - phải mượn sách
+Đại số tuyến tính
+- Hệ phương trình
+- Ma trận
+- Vector
+3/ Hàm số
+- Là quy tắc được mô tả bởi một biểu thức 
+  sao cho với mỗi giá trị đầu vào 
+  ta có chỉ một giá trị đầu ra
+
+- Find domain: tập xác định của x để hàm số có nghĩa (căn A, phân số, lnX)
+- Find range: miền giá trị có thể của hàm (biến đổi hoặc lập bảng biến thiên)
+BT1:
+a. f(x) = sqrt(x+2)		 => D = [-2; +vô cùng)
+b. f(x) = 1/(x^2-x) 		 => D = R\{0; 1}
+c. f(x) = ln(x+1) - x/sqrt(x-1)  => D = (1; +vô cùng)
+BT2:
+a. f(x) = sqrt(x-1) 		 => r =  [0; +vô cùng)
+b. f(x) = x^2 - 2x		 => r = [-1; +vô cùng)
+c. f(x) = sinx			 => r = [-1; 1]
+d. f(x) = cosx 			 => r = [-1; 1]
+- Determine Even, Odd, Either: f(-x) = f(x) => chẵn, đối xứng qua Oy
+		f(-x) = -f(x) => lẻ, đối xứng qua O
+		không chẵn, không lẻ
+BT3:
+a. f(-x) = -x/(x^2+1) = -f(x) => lẻ
+b. f(-x) = x^2/(x^4+1) = f(x) => chẵn
+c. f(-x) = -x/-x+1 != f(x) 
+	  	   != -f(x)
+		   => không chẵn không lẻ
+- Obtain the graph: các phép biến đổi hàm số
+     Shifting: phép tịnh tiến hàm số f(x) 
+	+ f(x)+c: shift up
+	+ f(x)-c: shift down
+	+ f(x-c): shift right
+	+ f(x+c): shift left
+BT4: 
+a. Shift right 4
+b. Shift up 3
+c. Shift right 2 and shift down 3 
+d. Shift left 5 and shift down 4
+BT5:
+Shift right 1 and shift up 2
+- Hàm hợp: biến đổi từ a -> f(a) -> g(f(a))
+		Công thức: gof(a) = g(f(a))
+BT6:
+a. fog = sqrt(sqrt(2-x))
+b. gof = sqrt(2-sqrt(x))
+c. gog = sqrt(2-(sqrt(2-x))
+d. fof = sqrt(sqrt(x))
+BT7:
+a. f(x + (1/x)) = ((x+1/x)^2 + (x+1/x) +1)/(x+1/x)
+b. f(2x-1) = ((2x-1)^2 + (2x-1) + 1)/(2x-1)
+
+BT8:
+a. f(g(1)) = 5
+b. g(f(1)) = 2
+c. f(f(1)) = 4
+d. g(g(1)) = 3
+e. g0f(3)  = 6 
+f. gof(6)  = 2
+- Giới hạn: là L, khi x dần tiến về tham số a (nhưng không bằng a) thì f(x) dần tiến về L
+	    điều kiện để có lim thì đều tồn tại lim trái và lim phải
+	    và lim- = lim+
+BT9:
+a. lim(x->3):(2x+1) => L = 7
+b. lim(x->1):(6x/10x) = lim(x->1): 3x/5x => L = 3/5
+c. lim(x->0): tan3x/tan5x = 3/5
+d. lim(x->0):(2h+6) => L = 6
+e. 1/6
+f. -vô cùng
+g. lim(x->0-): 2/x => L = -vô cùng
+h. lim(x->1-): (x^2-1)/(1-x) => L = -2
+   lim(x->1+): (x^2-1)/(x-1) => L = 2
+   => không tồn tại lim
+BT10: 
+a. No -> cắt trục Oy tại 2 điểm
+b. Yes -> D = [-3;3], r = [-2;3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
